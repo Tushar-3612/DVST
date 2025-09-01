@@ -1,0 +1,23 @@
+## ⬇️ How to Download & Install Power BI
+
+Follow these steps to download and install Power BI:
+
+1. Go to the **official Microsoft Power BI website**  
+   👉 [Download Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+2. Click on **Download** and select the version according to your system:  
+   - `PBIDesktopSetup.exe` (32-bit)  
+   - `PBIDesktopSetup_x64.exe` (64-bit)  
+
+3. Once the installer is downloaded, **run the setup file**.  
+
+4. Follow the installation wizard and complete the setup.  
+
+5. After installation, search for **Power BI Desktop** in the Start Menu and open it.  
+
+6. (Optional) You can also install Power BI Desktop from the **Microsoft Store**:  
+   👉 [Power BI Desktop on Microsoft Store](https://apps.microsoft.com/store/detail/power-bi-desktop/9NTXR16HNW1T)
+
+---
+
+✅ Now your system is ready to start creating **interactive dashboards and reports** with Power BI.
