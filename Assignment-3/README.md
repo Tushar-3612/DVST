@@ -1,5 +1,5 @@
  
-### 🏥 Project Name: Hospital Emergency Room Dashboard
+### 🏥 Assignment Name: Hospital Emergency Room Dashboard
 
 This project was created to analyze and understand data from the hospital's Emergency Room (ER). It helps the management see how the ER is performing, identify areas for improvement, and enhance the overall patient experience.
 
